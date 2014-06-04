@@ -13,4 +13,4 @@ Arquitetura:
 + Linguagem Lua.
 
 Status:
-+ Em Desenvolvimento. Não é possível a publicação.
++ Em Desenvolvimento. Sem previsão de publicação.
